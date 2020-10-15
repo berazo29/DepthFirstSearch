@@ -193,5 +193,5 @@ Temporary Items
 .idea/
 cmake-build-debug/file1.txt
 cmake-build-debug/file2.txt
-test1.txt
-test2.txt
+file1.txt
+file2.txt
